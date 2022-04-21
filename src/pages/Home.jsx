@@ -1,9 +1,9 @@
-import React from 'react'
+import React from "react"
 
 function Home() {
   return (
-    <div>
-      <h1>This is home page.</h1>
+    <div className="bg-neutral-800 text-neutral-200">
+      <h1>Here Pak cool website.</h1>
     </div>
   )
 }
